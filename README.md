@@ -1,6 +1,7 @@
 # Spring-MVC-app
 
 Simple calculator based on Spring MVC with the following result:
+
 1) First Controller
 
    1.1 get parameters from url (@RequestMapping and @RequestParam annotation are used)
