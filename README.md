@@ -12,9 +12,9 @@ Simple calculator based on Spring MVC with the following result:
    
 3)  Model
    
-   2.1 gets attributes (Method addAttribute() is used)
+      2.1 gets attributes (Method addAttribute() is used)
    
-   2.2 sends the result to the View
+      2.2 sends the result to the View
    
 3) View handles the result and creates an html page using Thymleaf tempalte.
 
